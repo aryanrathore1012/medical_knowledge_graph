@@ -39,7 +39,7 @@ made during our internship under JIO this projects aims to build a knowledge gra
 * source: https://snap.stanford.edu/biodata/datasets/10004/10004-DCh-Miner.html 
 
 | #   | Column    |  Dtype   | 
-| :---:  | :------: | :--------------: | :-----: | 
+| :---:  | :------: |  :-----: | 
 | 0   | # Disease(MESH)   |  object / string    |
 | 1   | Chemical  |  object / string    |
 
