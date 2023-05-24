@@ -38,10 +38,10 @@ made during our internship under JIO this projects aims to build a knowledge gra
 
 * source: https://snap.stanford.edu/biodata/datasets/10004/10004-DCh-Miner.html 
 
-| #   | Column    | Non-Null Count  | Dtype    | 
+| #   | Column    |  Dtype   | 
 | :---:  | :------: | :--------------: | :-----: | 
-| 0   | # Disease(MESH)   | 15000 non-null  | int64    |
-| 1   | Chemical  | 15000 non-null  | float64  |
+| 0   | # Disease(MESH)   |  object / string    |
+| 1   | Chemical  |  object / string    |
 
 ![image](https://github.com/aryanrathore1012/medical_knowledge_graph/assets/91218998/e7349b93-e438-4669-b583-2c09245667e6)
 
