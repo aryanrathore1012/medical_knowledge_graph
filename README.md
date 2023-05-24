@@ -10,7 +10,9 @@ made during our internship under JIO this projects aims to build a knowledge gra
 
 ### 📚 about the dataset
 
-the csv has 4 datasets exercise, calories, workout and workout_logs
+* There are 2 datasets one with the diseases (in UMLS code) and symptoms (UMLS) 
+* and other with diseases (in MESH code) and Medicines used to cure them (MESH)
+* need to find a way to convert the MESH code to UMLS code so a third medicine identity can be added to the database
 
 #### 📕 kg_data dataset:-
 
@@ -49,8 +51,6 @@ the csv has 4 datasets exercise, calories, workout and workout_logs
 #### 1. the jsons are a result of running the drug_check.ipynb data in these jsons has been uploaded to the arangodb database.
 
 #### 🖋️ 2 IMP. it is highly reccomond you run the ipynb once for yourself to get appropriate key_ for diseases and symptoms 
-
-
 
 # Result:-  
 
