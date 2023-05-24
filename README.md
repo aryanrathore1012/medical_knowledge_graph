@@ -56,7 +56,7 @@ made during our internship under JIO this projects aims to build a knowledge gra
 
 * a photo of medical_knowledge_graph 
 * NOTE this is a small samples of values actually present in the database
-* the acutal graph has way more values the shown in this output
+* the acutal graph has way more values compared to the values shown in this output
 * here the grey dots are the diseases and purple the symptoms
 * the green lines are the connection between these dots representing which Symptom is related to what disease
 
